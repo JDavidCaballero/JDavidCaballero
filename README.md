@@ -6,6 +6,12 @@ Tengo más de **4 años de experiencia** trabajando en aplicaciones móviles y w
 
 ---
 
+### 📬 Contáctame
+📧 jdcaballerome@gmail.com  
+💼 *https://www.linkedin.com/in/juan-david-caballero-mej%C3%ADa-6a49021a1/*
+
+---
+
 ### 🧠 Tecnologías y herramientas principales
 - 📱 **React Native** – desarrollo móvil multiplataforma
 - 🤖 **Kotlin** – desarrollo Android nativo
@@ -54,12 +60,6 @@ Tengo más de **4 años de experiencia** trabajando en aplicaciones móviles y w
 ### 📌 Metodologías y trabajo en equipo
 - 🧠 Metodología **Scrum**: uso diario para planificación de tareas, estimaciones y seguimiento.
 - 🛠️ Herramientas de gestión como Jira, ClickUp (según proyecto).
-
----
-
-### 📬 Contáctame
-📧 jdcaballerome@gmail.com  
-💼 *https://www.linkedin.com/in/juan-david-caballero-mej%C3%ADa-6a49021a1/*
 
 ---
 
