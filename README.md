@@ -1,68 +1,70 @@
-### 👋 Hola, soy Juan David Caballero Mejia
+### 👋 Hi there! I'm Juan David Caballero Mejia
 
-🎯 **Ingeniero de sistemas y Desarrollador Frontend especializado en desarrollo móvil**  
+🎯 **Systems Engineer & Frontend Developer specialized in Mobile Development**  
 
-Tengo más de **4 años de experiencia** trabajando en aplicaciones móviles y web, utilizando tecnologías como **React**, **React Native** y **Kotlin** para desarrollo Android nativo.
+I have over **4 years of experience** working on both **mobile and web applications**, using technologies like **React**, **React Native**, and **Kotlin** for native Android development.
 
 ---
 
-### 📬 Contáctame
+### 📬 Contact
 📧 jdcaballerome@gmail.com  
-💼 *https://www.linkedin.com/in/juan-david-caballero-mej%C3%ADa-6a49021a1/*
+💼 [LinkedIn](https://www.linkedin.com/in/juan-david-caballero-mej%C3%ADa-6a49021a1/)
 
 ---
 
-### 🧠 Tecnologías y herramientas principales
-- 📱 **React Native** – desarrollo móvil multiplataforma
-- 🤖 **Kotlin** – desarrollo Android nativo
-- ⚛️ **React.js** – desarrollo web moderno con enfoque frontend
-- 🧪 Testing con Jest y React Testing Library
-- 🚀 Publicación en **Google Play Store** y **App Store**
-- 🔗 Integraciones con APIs REST y GraphQL
-- 🔐 Autenticación con terceros (Google, Apple)
-- ☁️ Firebase, Google Cloud
-- 🗃️ Redux, Context
-- 💬 Notificaciones push (Firebase)
+### 🧠 Key Technologies & Tools
+- 📱 **React Native** – cross-platform mobile development
+- 🤖 **Kotlin** – native Android development
+- ⚛️ **React.js** – modern frontend web development
+- 🧪 Testing: Jest, React Testing Library
+- 🚀 Publishing: **Google Play Store** and **App Store**
+- 🔗 API Integration: REST & GraphQL
+- 🔐 Third-party authentication (Google, Apple)
+- ☁️ Firebase, Google Cloud Platform
+- 🗃️ Redux, Context API
+- 💬 Push Notifications (Firebase)
 - 🌐 Deep Linking
 - 🟦 TypeScript
----
-
-### 🧰 Experiencia profesional
-
-#### 🚛 App de logística de transporte (Kotlin - Android Nativo)
-- Desarrollo de aplicación para conductores de carga pesada.
-- Funcionalidad de búsqueda de trabajos según las características del camión.
-- Integración de mapas y telemetría basada en la geolocalización del dispositivo.
-
-#### 👨‍⚕️ Consultora de desarrollo (React Native / React)
-- Participación en múltiples proyectos móviles:
-  - **Medicina**: grabación, carga y reproducción de chequeos médicos en video.
-  - **Contenido estilo red social**: navegación tipo feed, detalles, favoritos, notificaciones, autenticación con Google y Apple.
-  - **Apuestas deportivas**: estadísticas, tablas, gráficas y navegación avanzada.
-- Tareas realizadas:
-  - Soporte y mantenimiento de aplicaciones en producción.
-  - Desarrollo desde cero hasta despliegue en tiendas.
-  - Integración con Branch.io para flujos de deep linking.
+- ✅ Advanced English level
 
 ---
 
-### 🚀 Publicaciones y despliegues
-- ✅ Más de **30 aplicaciones** subidas a **Google Play Store** y **App Store**, con un mínimo de **500 descargas cada una**.
-- 📦 Manejo completo del proceso de despliegue y publicación para clientes.
-- 🛠️ Ejemplos de apps publicadas:
+### 🧰 Professional Experience
+
+#### 🚛 Freight Logistics App (Kotlin - Native Android)
+- Built an Android app for heavy freight truck drivers.
+- Enabled users to search for jobs based on truck characteristics.
+- Integrated map views with real-time GPS telemetry.
+
+#### 👨‍⚕️ Development Consultancy (React Native / React)
+Worked on a variety of projects from scratch and in production:
+- **Healthcare App**: users could record and upload patient check-ups and replay them.
+- **Social Media-like App**: saved and browsed content, push notifications, third-party auth (Google, Apple), deep linking with Branch.io.
+- **Sports Betting App**: dynamic statistics, charts, and data tables for live matches.
+
+Responsibilities included:
+- Supporting legacy apps with bug fixing.
+- Leading full app development from concept to production.
+- Publishing and maintaining apps on both iOS and Android platforms.
+
+---
+
+### 🚀 Deployment & Publishing
+- 📱 **30+ apps published** to **Google Play** and **App Store**, each with **500+ downloads**.
+- 📦 Full deployment pipeline management for client apps.
+- 🛠️ Some published apps (Appstore and Google Play store):
   - *Union Strong Next Gen*
   - *Rithmm*
   - *Medical Memory*
   - *Fletx*
+---
+
+### 🧩 Teamwork & Agile Methodologies
+- 🧠 Daily use of **Scrum** for planning, task estimation, and progress tracking.
+- 🛠️ Tools: Jira, ClickUp (depending on the project)
 
 ---
 
-### 📌 Metodologías y trabajo en equipo
-- 🧠 Metodología **Scrum**: uso diario para planificación de tareas, estimaciones y seguimiento.
-- 🛠️ Herramientas de gestión como Jira, ClickUp (según proyecto).
-
----
-
-GitHub Stats
+### 📊 GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JDavidCaballero&theme=youtube-dark)](https://git.io/streak-stats)
